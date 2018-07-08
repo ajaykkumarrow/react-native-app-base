@@ -1,0 +1,28 @@
+export const LOST_REASON_LOAD = 'lostReason/LOST_REASON_LOAD';
+export const LOST_REASON_SUCCESS = 'lostReason/LOST_REASON_SUCCESS';
+export const LOST_REASON_FAILURE = 'lostReason/LOST_REASON_FAILURE';
+
+export const LEAD_FOLLOW_UP_LOAD = 'followUp/LEAD_FOLLOW_UP_LOAD';
+export const LEAD_FOLLOW_UP_SUCCESS = 'followUp/LEAD_FOLLOW_UP_SUCCESS';
+export const LEAD_FOLLOW_UP_FAILURE = 'followUp/LEAD_FOLLOW_UP_FAILURE';
+
+export const UPDATE_LEAD_FOLLOW_LOAD = 'updateFollowUp/UPDATE_LEAD_FOLLOW_LOAD';
+export const UPDATE_LEAD_FOLLOW_SUCCESS = 'updateFollowUp/UPDATE_LEAD_FOLLOW_SUCCESS';
+export const UPDATE_LEAD_FOLLOW_FAILURE = 'updateFollowUp/UPDATE_LEAD_FOLLOW_FAILURE';
+
+export const UPDATE_LEAD_LOAD = 'updateLead/UPDATE_LEAD_LOAD';
+export const UPDATE_LEAD_SUCCESS = 'updateLead/UPDATE_LEAD_SUCCESS';
+export const UPDATE_LEAD_FAILURE = 'updateLead/UPDATE_LEAD_FAILURE';
+
+export const GET_LEAD_LOAD = 'getLead/GET_LEAD_LOAD';
+export const GET_LEAD_SUCCESS = 'getLead/GET_LEAD_SUCCESS';
+export const GET_LEAD_FAILURE = 'getLead/GET_LEAD_FAILURE';
+
+export const ACTION_COMMENT_LOAD = 'actionComment/ACTION_COMMENT_LOAD';
+export const ACTION_COMMENT_SUCCESS = 'actionComment/ACTION_COMMENT_SUCCESS';
+export const ACTION_COMMENT_FAILURE = 'actionComment/ACTION_COMMENT_FAILURE';
+
+export const LEAD_ACTIVITIES_LOAD = 'leadActivities/LEAD_ACTIVITIES_LOAD';
+export const LEAD_ACTIVITIES_SUCCESS = 'leadActivities/LEAD_ACTIVITIES_SUCCESS';
+export const LEAD_ACTIVITIES_FAILURE = 'leadActivites/LEAD_ACTIVITIES_FAILURE';
+

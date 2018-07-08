@@ -1,0 +1,19 @@
+export const FOLLOW_UP_TODAY_LOAD = 'followUpToday/FOLLOW_UP_TODAY_LOAD';
+export const FOLLOW_UP_TODAY_SUCCESS = 'followUpToday/FOLLOW_UP_TODAY_SUCCESS';
+export const FOLLOW_UP_TODAY_FAILURE = 'followUpToday/FOLLOW_UP_TODAY_FAILURE';
+
+export const FOLLOW_UP_DONE_LOAD = 'followUpDone/FOLLOW_UP_DONE_LOAD';
+export const FOLLOW_UP_DONE_SUCCESS = 'followUpDone/FOLLOW_UP_DONE_SUCCESS';
+export const FOLLOW_UP_DONE_FAILURE = 'followUpDone/FOLLOW_UP_DONE_FAILURE';
+
+export const FOLLOW_UP_ASSIGNEE_LOAD = 'followUpAssignee/FOLLOW_UP_ASSIGNEE_LOAD';
+export const FOLLOW_UP_ASSIGNEE_SUCCESS = 'followUpAssignee/FOLLOW_UP_ASSIGNEE_SUCCESS';
+export const FOLLOW_UP_ASSIGNEE_FAILURE = 'followUpAssignee/FOLLOW_UP_ASSIGNEE_FAILURE';
+
+export const UPDATE_LEAD_LOAD = 'updateLead/UPDATE_LEAD_LOAD';
+export const UPDATE_LEAD_SUCCESS = 'updateLead/UPDATE_LEAD_SUCCESS';
+export const UPDATE_LEAD_FAIL = 'updateLead/UPDATE_LEAD_FAIL';
+
+export const FOLLOW_COUNT_LOAD = 'followCount/FOLLOW_COUNT_LOAD';
+export const FOLLOW_COUNT_SUCCESS = 'followCount/FOLLOW_COUNT_SUCCESS';
+export const FOLLOW_COUNT_FAILURE = 'followCount/FOLLOW_COUNT_FAILURE';
